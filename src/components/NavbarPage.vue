@@ -6,10 +6,8 @@
         <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-2 mb-3 border-bottom">
           <div class="col-md-2 mb-1 mb-md-0">
             <a href="/" class="d-inline-flex link-body-emphasis text-decoration-none">
-              <div class="imglogo">
-                <img src="https://cdn.discordapp.com/attachments/1006370035457064990/1162772963796467744/387536473_1724883067986090_7884801227099415873_n_1.png?ex=653d27b5&is=652ab2b5&hm=72fa6135c0664b0cc12c7cfe2d430b6acf65a604b5838d30487266bcffe5718c&" alt="" srcset=" " style="width: 150px; height: 120px; margin-top: -1.7rem; padding-left: 2rem;"/>
-              </div>
-              
+
+              <img src="https://cdn.discordapp.com/attachments/1006370035457064990/1162772963796467744/387536473_1724883067986090_7884801227099415873_n_1.png?ex=653d27b5&is=652ab2b5&hm=72fa6135c0664b0cc12c7cfe2d430b6acf65a604b5838d30487266bcffe5718c&" alt="" style="width: 150px; height: 120px; margin-top: -1.7rem; padding-left: 2rem;">
               
             </a>
           </div>
