@@ -130,7 +130,7 @@ const HealthDetails_2_list = ref(healthdetails_2_all.HealthDetails_2_list);
 
 
     font-family: 'Mitr', sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     
    }
 

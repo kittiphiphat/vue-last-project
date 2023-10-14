@@ -130,7 +130,7 @@ const HealtyFood_list = ref(healtyfood_all.HealtyFood_list);
     margin-left: 10rem;
 
     font-family: 'Mitr', sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     
    }
 

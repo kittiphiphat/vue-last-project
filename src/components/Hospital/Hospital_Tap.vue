@@ -129,7 +129,7 @@ const Hospital_list = ref(hospital_all.Hospital_list);
     margin-left: 10rem;
 
     font-family: 'Mitr', sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     
    }
 

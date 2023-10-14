@@ -82,7 +82,7 @@ a {
   text-align: center;
   color: rgba(66, 180, 238, 1);
   font-family: 'Mitr', sans-serif;
-  font-weight: 700;
+  font-weight: 800;
 }
 .text-body-light{
   font-size: 21.7px;
