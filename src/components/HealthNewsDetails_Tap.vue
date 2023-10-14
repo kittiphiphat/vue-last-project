@@ -61,7 +61,7 @@ return list.value.find(item => item.id === route.params.id)
 }
 .card-text {
   /* color: #fff; */
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 400;
  
   font-family: 'Mitr', sans-serif;
