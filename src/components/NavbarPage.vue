@@ -6,15 +6,18 @@
         <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-2 mb-3 border-bottom">
           <div class="col-md-2 mb-1 mb-md-0">
             <a href="/" class="d-inline-flex link-body-emphasis text-decoration-none">
-              <i class="fa-solid fa-stethoscope" style="color: #ffffff;"></i>
-
+              <div class="imglogo">
+                <img src="https://cdn.discordapp.com/attachments/1006370035457064990/1162772963796467744/387536473_1724883067986090_7884801227099415873_n_1.png?ex=653d27b5&is=652ab2b5&hm=72fa6135c0664b0cc12c7cfe2d430b6acf65a604b5838d30487266bcffe5718c&" alt="" srcset=" " style="width: 150px; height: 120px; margin-top: -1.7rem; padding-left: 2rem; "  >
+              </div>
+              
+              
             </a>
           </div>
   
     
           <div class="col-md-3 text-end" style=" top: 1rem; margin-right: 2rem;">
             
-            <a href="/loginPage"><button  class="btn btn-outline-info link-light me-3" style="padding: 0.3rem;" ><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" style="fill: rgb(255, 255, 255);transform: ;msFilter:;"><path d="M7.5 6.5C7.5 8.981 9.519 11 12 11s4.5-2.019 4.5-4.5S14.481 2 12 2 7.5 4.019 7.5 6.5zM20 21h1v-1c0-3.859-3.141-7-7-7h-4c-3.86 0-7 3.141-7 7v1h17z"></path></svg></button></a>
+            <a href="/loginPage"><button  class="btn btn-outline-info link-light me-3" style="padding: 0.2rem; margin-top: -1rem;" ><svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" style="fill: rgb(255, 255, 255);transform: ;msFilter:;"><path d="M7.5 6.5C7.5 8.981 9.519 11 12 11s4.5-2.019 4.5-4.5S14.481 2 12 2 7.5 4.019 7.5 6.5zM20 21h1v-1c0-3.859-3.141-7-7-7h-4c-3.86 0-7 3.141-7 7v1h17z"></path></svg></button></a>
           </div>
         </header>
         <!-- Navbar -->
@@ -47,14 +50,10 @@
     padding: 0;
 
   }
-  .fa-solid.fa-stethoscope{
-    font-size: 40px;
-    margin-top: 2px;
-    margin-left: 15px;
-    justify-content: center;
-    padding: 1rem;
-    display: flex;
-  }
+ .imglogo{
+  margin: 0;
+    padding: 0;
+ }
 
   .container1{
     background-color:#276a87 ;
