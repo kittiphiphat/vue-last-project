@@ -16,36 +16,36 @@
     <div class="col mb-3" style="margin-top: 2rem;">
       <h5 class="mb-4">ข้อมูลสุขภาพ</h5>
       <ul class="nav flex-column " >
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">โรคและการรักษา</a></li>
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">โรคที่มักพบบ่อย</a></li>
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">การป้องกันโรค</a></li>
+        <li class="nav-item mb-3"><a href="/health/healthlist/1" class="nav-link p-0 text-body-light">โรคและการรักษา</a></li>
+        <li class="nav-item mb-3"><a href="/health/healthlist/2" class="nav-link p-0 text-body-light">โรคที่มักพบบ่อย</a></li>
+        <li class="nav-item mb-3"><a href="/health/healthlist/3" class="nav-link p-0 text-body-light">การป้องกันโรค</a></li>
       </ul>
     </div>
 
     <div class="col mb-3" style="margin-top: 2rem;">
       <h5 class="mb-4">เคล็ดลับสุขภาพ</h5>
       <ul class="nav flex-column">
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">การนอนหลับที่เพียงพอ</a></li>
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">การบริโภคอาหารที่ดี</a></li>
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">การจัดการความเครียด</a></li>
+        <li class="nav-item mb-3"><a href="/healthtips/healthtipslist/1" class="nav-link p-0 text-body-light">การนอนหลับที่เพียงพอ</a></li>
+        <li class="nav-item mb-3"><a href="/healthtips/healthtipslist/2" class="nav-link p-0 text-body-light">การบริโภคอาหารที่ดี</a></li>
+        <li class="nav-item mb-3"><a href="/healthtips/healthtipslist/3" class="nav-link p-0 text-body-light">การจัดการความเครียด</a></li>
       </ul>
     </div>
 
     <div class="col mb-3" style="margin-top: 2rem;">
       <h5 class="mb-4">อาหารเพื่อสุขภาพ</h5>
       <ul class="nav flex-column">
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">อาหารที่ควรรับประทาน</a></li>
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">อาหารที่ควรหลีกเลี่ยง</a></li>
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">เมนูอาหารสุขภาพ</a></li>
+        <li class="nav-item mb-3"><a href="/healtyfood/healtyfoodlist/1" class="nav-link p-0 text-body-light">อาหารที่ควรรับประทาน</a></li>
+        <li class="nav-item mb-3"><a href="/healtyfood/healtyfoodlist/2" class="nav-link p-0 text-body-light">อาหารที่ควรหลีกเลี่ยง</a></li>
+        <li class="nav-item mb-3"><a href="/healtyfood/healtyfoodlist/3" class="nav-link p-0 text-body-light">เมนูอาหารสุขภาพ</a></li>
       </ul>
     </div>
 
     <div class="col mb-3" style="margin-top: 2rem;">
       <h5 class="mb-4">โรงพยาบาล</h5>
       <ul class="nav flex-column">
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">ทำประกัน</a></li>
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">ค่าใช้จ่ายโรงพยาบาล</a></li>
-        <li class="nav-item mb-3"><a href="#" class="nav-link p-0 text-body-light">ตรวจสุขภาพประจำปี</a></li>
+        <li class="nav-item mb-3"><a href="/hospital/hospitallist/1" class="nav-link p-0 text-body-light">ทำประกัน</a></li>
+        <li class="nav-item mb-3"><a href="/hospital/hospitallist/3" class="nav-link p-0 text-body-light">ค่าใช้จ่ายโรงพยาบาล</a></li>
+        <li class="nav-item mb-3"><a href="/hospital/hospitallist/2" class="nav-link p-0 text-body-light">ตรวจสุขภาพประจำปี</a></li>
       </ul>
     </div>
   </footer>

@@ -69,9 +69,9 @@ return list.value.find(item => item.id === route.params.id)
 
 }
 .row{
-  padding-left: 1.5rem;
+  padding-left: 3rem;
   
-  padding-right: 1.5rem;
+  padding-right: 3rem;
 }
 
 </style>
