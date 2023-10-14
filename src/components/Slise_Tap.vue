@@ -4,13 +4,15 @@
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="4" aria-label="Slide 5"></button>
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
         <div class="container">
           <div class="carousel-caption text-start">
-            <img src="https://cdn.discordapp.com/attachments/1006370035457064990/1162678957083209738/desktop-1920x1080.jpg?ex=653cd028&is=652a5b28&hm=b21eeb53059bc68fad698882f2976b4ae01d2a939e2077777cd47476a2701218&" alt="" srcset="" style="width:100%;height: 100%; ">
+            <img src="https://media.discordapp.net/attachments/1006370035457064990/1162729065405485176/1.png?ex=653cfed3&is=652a89d3&hm=deb455da8a2241ab548030ddcfb41b460df876e6d18f411e1019d811e92d48ef&=&width=1439&height=512" alt="" srcset="" style="width:100%;height: 100%;  ">
             <h1>{{ text_title }}</h1>
             <p class="opacity-75"></p>
 
@@ -21,7 +23,7 @@
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
         <div class="container">
           <div class="carousel-caption">
-            <img src="https://cdn.discordapp.com/attachments/1006370035457064990/1162678717827526707/desktop-1600x900.jpg?ex=653ccfef&is=652a5aef&hm=287e9e71ac7626edcb980f9ee6e0ac99c91f8f00099a047a068f9d23458826af&" alt="" srcset="" style="width:100%;height: 100%; ">
+            <img src="https://media.discordapp.net/attachments/1006370035457064990/1162729066680561804/2.png?ex=653cfed3&is=652a89d3&hm=78bb9aecc4632d94934d93281b0bec77b77cdc4ca2b5ed5cb4e2af2d5129d03c&=&width=1439&height=512" alt="" srcset="" style="width:100%;height: 100%; ">
 
           </div>
         </div>
@@ -30,7 +32,27 @@
         <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
         <div class="container">
           <div class="carousel-caption text-end">
-            <img src="https://cdn.discordapp.com/attachments/1006370035457064990/1162679576846147707/desktop-1920x1080_1.jpg?ex=653cd0bc&is=652a5bbc&hm=1d4217fc008366000f322ee93d5729f6db2fcbcaec10d2a96c4e4d63cbc76be7&" alt="" srcset="" style="width:100%;height: 100%; ">
+            <img src="https://media.discordapp.net/attachments/1006370035457064990/1162729071864713369/3.png?ex=653cfed5&is=652a89d5&hm=74c825b7fecded50a842b925c8d05d785a76b9a7b8b5b494d96a8ec16f50a5fe&=&width=1439&height=512" alt="" srcset="" style="width:100%;height: 100%; ">
+
+
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
+        <div class="container">
+          <div class="carousel-caption text-end">
+            <img src="https://media.discordapp.net/attachments/1006370035457064990/1162729072430940232/4.png?ex=653cfed5&is=652a89d5&hm=52424131140e0cdc0af9f9b34d2c7bd81fd10b316a859f2e59e91af5f501c555&=&width=1439&height=512" alt="" srcset="" style="width:100%;height: 100%; ">
+
+
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
+        <div class="container">
+          <div class="carousel-caption text-end">
+            <img src="https://media.discordapp.net/attachments/1006370035457064990/1162729072963629066/5.png?ex=653cfed5&is=652a89d5&hm=7403e92f3da8bf5a67089d748f14aaf4dd042f1b1a4cca025d9b19c886507ea9&=&width=1439&height=512" alt="" srcset="" style="width:100%;height: 100%; ">
 
 
           </div>
@@ -81,7 +103,7 @@ body {
 
 /* Declare heights because of positioning of img element */
 .carousel-item {
-  height: 40rem;
+  height: 35rem;
 
 }
 
