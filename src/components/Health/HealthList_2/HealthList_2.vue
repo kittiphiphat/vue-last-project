@@ -10,7 +10,7 @@
       <div class="col" style="padding: 1rem;" v-for="(i,index) in HealthDetails_2_list" :key="index">
         <div class="card shadow-sm">
           <div class="all-img">
-            <img :src="i.coverimage" :alt="name" style="width:100%; height: 240px; border-radius: 15px;">
+            <img :src="i.coverimage" :alt="name" style="width:100%; border-radius: 15px;">
           </div>
           <div class="card-body">
             <p class="card-text">{{ i.name }}</p>

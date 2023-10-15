@@ -8,7 +8,7 @@
             <div class="center" >
               <h1 class="headname">{{ i.name }}</h1>
               <div class="container-img">
-                <img :src="i.coverimage" :alt="name" style="width: 60%; padding: 20px;">
+                <img :src="i.coverimage" alt="" style="width: 60%; padding: 20px;">
               </div>
             </div>
             <div class="card-body" >
@@ -152,15 +152,8 @@ p {
   font-size: 20px;
 }
 .container-img {
-  text-align: center; 
-}
-.card {
-  /* background-image: linear-gradient(0deg, #276A87 45%, #8BCCE8 100%); */
-}
-.card:hover {
-  transform: translateY(-5px);
-  border: 0.2px solid #276A87;
-  transition: transform 0.3s ease;
+  text-align: center;
+  max-width: 100%;
 }
 .card-text {
   /* color: #fff; */

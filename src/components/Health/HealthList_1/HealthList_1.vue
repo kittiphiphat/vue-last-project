@@ -10,7 +10,7 @@
       <div class="col" style="padding: 1rem;" v-for="(i,index) in HealthDetails_1_list" :key="index">
         <div class="card shadow-sm">
           <div class="all-img">
-            <img :src="i.coverimage" :alt="name" style="width:100%; height: 240px; border-radius: 15px;">
+            <img :src="i.coverimage" :alt="name" style="width:100%; border-radius: 15px;">
           </div>
           <div class="card-body">
             <p class="card-text">{{ i.name }}</p>
@@ -166,7 +166,7 @@ p {
 
 }
 .album {
-  background: linear-gradient(180deg, #B7EEFF 0%, rgba(255, 251, 220, 0.7) 53.65%, #9FE2FF 100%);
+  background-image: radial-gradient(ellipse, #ffffff 30%, #B7EEFF 100%);
 }
 
 </style>
