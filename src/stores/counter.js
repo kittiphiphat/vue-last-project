@@ -7,7 +7,7 @@ export const useHealth_list = defineStore('Health', () => {
       {
         id: "1",
         name: "โรคและการรักษา",
-        coverimage: "https://www.exta.co.th/wp-content/uploads/2023/02/young-asia-female-doctor-white-medical-uniform-using-clipboard-is-delivering-great-news-talk-discuss-results-711x400.webp",
+        coverimage: "https://malengpod.com/wp-content/uploads/2019/10/3.1_1-scaled.jpg",
         price: "45"
       },
       {
